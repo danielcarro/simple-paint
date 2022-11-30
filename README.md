@@ -1,1 +1,3 @@
-# simple-paint
+## Simple paint
+
+Javascript Project
